@@ -15,7 +15,7 @@ Projeto criado utilizando conceitos de Programação Orientada a Objetos (OOP) a
 
 - Autentificação do usuário
 - Saque
-- Deposito
+- Depósito
 - Transferência
 - Extrato
 
@@ -25,4 +25,4 @@ Projeto criado utilizando conceitos de Programação Orientada a Objetos (OOP) a
 
 ## Vídeo Demonstração:
 
-![video demo](https://github.com/Lais-Peixoto/CaixaEletronico/blob/main/Demo%20da%20aplica%C3%A7%C3%A3o.mp4)
+![Demonstração da Aplicação](https://github.com/Lais-Peixoto/CaixaEletronico/blob/main/Anima%C3%A7%C3%A3o.gif)
